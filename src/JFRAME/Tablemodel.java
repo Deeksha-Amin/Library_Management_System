@@ -8,6 +8,10 @@ package JFRAME;
  *
  * @author kdeek
  */
-class Preparedtatement {
+class Tablemodel {
+
+    Object getValueAt(int rowNo, int i) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
     
 }
